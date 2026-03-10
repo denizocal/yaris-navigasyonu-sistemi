@@ -42,6 +42,7 @@ Bu proje kapsamında aşağıdaki alanlarda uygulamalı deneyim kazanılmıştı
 ![GPS veri okuma](images/gps-veri-okuma.png)
 ![İlk Harita Goruntusu](images/ilk-harita-goruntusu.png)
 ![Yaris Pisti](images/yaris-pisti.png)
+![Araba](images/Araba.jpeg)
 
 - Hız ve yön bilgisinin eklenmesi
 - Kalan mesafe bilgisinin gösterilmesi
