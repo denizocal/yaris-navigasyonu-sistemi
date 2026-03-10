@@ -44,6 +44,8 @@ Bu proje kapsamında aşağıdaki alanlarda uygulamalı deneyim kazanılmıştı
 ![Yaris Pisti](images/yaris-pisti.png)
 ![Araba](images/Araba.jpeg)
 
+## Geliştirme Potansiyeli
+
 - Hız ve yön bilgisinin eklenmesi
 - Kalan mesafe bilgisinin gösterilmesi
 - Daha gelişmiş harita altyapısı
